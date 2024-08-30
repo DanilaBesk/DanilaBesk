@@ -1,12 +1,12 @@
 ## About Me
- - I'm Danila Beskorovaev, 17 yo
+ - I'm Danila Beskorovaev, 18 yo
  - I'm all for clean code and brilliant solutions
 
 ## Technology Stack
 - Typescript, JavaScript
 - React
 - Css modules, Tailwind
-- Zustand, Redux, Mobx
+- Zustand, Redux
 - React Query, react-hook-form, use-hooks
 - NodeJS, Npm, Express, Zod, Prisma, Mongoose
 - MySQL, PostgreSQL, MS Server, MongoDB
