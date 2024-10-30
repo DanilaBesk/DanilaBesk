@@ -9,7 +9,7 @@
 - Zustand, Redux
 - React Query, react-hook-form, use-hooks
 - NodeJS, Npm, Express, Zod, Prisma, Mongoose
-- MySQL, PostgreSQL, MS Server, MongoDB
+- Redis, PostgreSQL, MS Server, MongoDB
 - Jest, Supertest, React-testing-library
 - Docker, Docker-Compose
 - Figma, Postman
