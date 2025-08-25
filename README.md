@@ -1,5 +1,5 @@
 ## About Me
- - I'm Danila Beskorovaev, 18 yo
+ - I'm Danila Beskorovaev, 20 yo
  - I'm all for clean code and brilliant solutions
 
 ## Technology Stack
